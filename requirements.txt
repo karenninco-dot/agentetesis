@@ -1,0 +1,4 @@
+pandas == 2.3.3
+strands-agents[openai] == 1.38.0
+strands-agents-tools == 0.5.2
+tavily-python == 0.7.24
